@@ -1,6 +1,6 @@
 ---
 title: "Air Quality Analysis"
-output: github_document
+output: word_document
 ---
 
 This analysis uses the built-in **airquality** dataset. A data frame is created from it, then **cleaned using `complete.cases()`** to remove rows with missing values.
